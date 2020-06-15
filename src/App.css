@@ -1,0 +1,24 @@
+img{
+    height: 500px;
+}
+
+
+.navbar{
+    border-bottom: 1px solid #42454B;
+
+    
+}
+.col-1{
+    top:200px;
+}
+.col-2{
+    border-left: 1px solid #42454B;
+    top:20px
+}
+.col-3{
+    top:20px;
+}
+
+.conteiner-fluid{
+    height: 100vh;
+}
