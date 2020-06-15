@@ -1,24 +1,34 @@
-img{
+.stormtrooper{
     height: 500px;
 }
-
-
+.starwars{
+    height: 15%;
+}
+.millenniumfalcon{
+    height: 500px;
+}
 .navbar{
     border-bottom: 1px solid #42454B;
-
-    
+}
+.row{
+    align-items:stretch ;
+    max-height: 500px;
+    margin:0;
+    padding: 0;
 }
 .col-1{
     top:200px;
 }
 .col-2{
-    border-left: 1px solid #42454B;
-    top:20px
-}
-.col-3{
+    margin:0;
+    padding: 0;
     top:20px;
 }
-
-.conteiner-fluid{
-    height: 100vh;
+#divScroll{
+    overflow: auto;
+    max-height: 500px;
+    top:20px;
+}
+.title-left{
+    text-align: left;
 }
